@@ -10,7 +10,7 @@ $chat_id = "YOUR_CHAT_ID_HERE";
 echo "<body style='background:#02040a; color:#06b6d4; font-family:monospace; padding:40px;'>";
 echo "<h1 style='letter-spacing:5px; border-bottom:2px solid #06b6d4; padding-bottom:10px;'>LEVIATHAN v70.1</h1>";
 
-if($chat_id == "8086499139:AAEYL0H7IcW0l8MIAW5m-quLgf9aKhG1wf0") {
+if($chat_id == "chat_id") {
     echo "<p style='color:orange;'>[!] ERROR: Nisi uneo svoj Chat ID u kod.</p>";
     exit;
 }
